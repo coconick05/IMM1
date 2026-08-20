@@ -20,7 +20,7 @@ except:
     pass
 
 st.subheader("Lo que quedó del corazón.")
-st.write('El diablillo llevaba tanto tiempo con el tridente en alto que ya no recordaba para qué servía. Solo sabía que debía sostenerlo así, apuntando al cielo, como si algo importante fuera a caer de un momento a otro.
+st.write('''El diablillo llevaba tanto tiempo con el tridente en alto que ya no recordaba para qué servía. Solo sabía que debía sostenerlo así, apuntando al cielo, como si algo importante fuera a caer de un momento a otro.
 
 El querubín tampoco recordaba de dónde había sacado el corazón que llevaba entre las manos. Solo sabía que no era suyo. Latía distinto, a destiempo, como si perteneciera a otra persona que lo estuviera buscando desde hace años.
 
@@ -34,9 +34,7 @@ El diablillo lo miró. Sonreía, como sonreía siempre, con esa sonrisa pintada 
 
 Ninguno soltó lo que tenía. Y así se quedaron, congelados a mitad de un gesto que empezó hace mucho —una advertencia, una ofrenda, quién sabe— y que nadie, ni ellos mismos, terminaría jamás.
 
-Porque algunas figuras solo existen a medias: un brazo levantado que nunca llega a golpear, una mano abierta que nunca llega a entregar. Y el fondo blanco se queda ahí, esperando que alguien decida qué fue lo que realmente pasó entre ellos.'
-        
-        )
+Porque algunas figuras solo existen a medias: un brazo levantado que nunca llega a golpear, una mano abierta que nunca llega a entregar. Y el fondo blanco se queda ahí, esperando que alguien decida qué fue lo que realmente pasó entre ellos.''')
            
 st.markdown(f"Quieres escucharlo?, copia el texto")
 text = st.text_area("Ingrese El texto a escuchar.")
