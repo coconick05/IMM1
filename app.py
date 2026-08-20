@@ -20,9 +20,7 @@ except:
     pass
 
 st.subheader("Lo que quedó del corazón.")
-st.write('Lo que quedó del corazón
-
-El diablillo llevaba tanto tiempo con el tridente en alto que ya no recordaba para qué servía. Solo sabía que debía sostenerlo así, apuntando al cielo, como si algo importante fuera a caer de un momento a otro.
+st.write('El diablillo llevaba tanto tiempo con el tridente en alto que ya no recordaba para qué servía. Solo sabía que debía sostenerlo así, apuntando al cielo, como si algo importante fuera a caer de un momento a otro.
 
 El querubín tampoco recordaba de dónde había sacado el corazón que llevaba entre las manos. Solo sabía que no era suyo. Latía distinto, a destiempo, como si perteneciera a otra persona que lo estuviera buscando desde hace años.
 
