@@ -19,13 +19,22 @@ try:
 except:
     pass
 
-st.subheader("Una pequeña Fábula.")
-st.write('¡Ay! -dijo el ratón-. El mundo se hace cada día más pequeño. Al principio era tan grande que le tenía miedo. '  
-         ' Corría y corría y por cierto que me alegraba ver esos muros, a diestra y siniestra, en la distancia. ' 
-         ' Pero esas paredes se estrechan tan rápido que me encuentro en el último cuarto y ahí en el rincón está '  
-         ' la trampa sobre la cual debo pasar. Todo lo que debes hacer es cambiar de rumbo dijo el gato...y se lo comió. ' 
-         '  '
-         ' Franz Kafka.'
+st.subheader("Lo que quedó del corazón.")
+st.write('El diablillo llevaba tanto tiempo con el tridente en alto que ya no recordaba para qué servía. Solo sabía que debía sostenerlo así, apuntando al cielo, como si algo importante fuera a caer de un momento a otro.
+
+El querubín tampoco recordaba de dónde había sacado el corazón que llevaba entre las manos. Solo sabía que no era suyo. Latía distinto, a destiempo, como si perteneciera a otra persona que lo estuviera buscando desde hace años.
+
+Se encontraron sin querer, uno corriendo hacia adelante y el otro girando sobre sí mismo, y por un segundo ninguno de los dos se sorprendió de estar ahí, en un fondo blanco que no era cielo ni tierra ni nada.
+
+—¿Es tuyo esto? —preguntó el querubín, ofreciendo el corazón.
+
+El diablillo lo miró. Sonreía, como sonreía siempre, con esa sonrisa pintada que no se le movía aunque quisiera.
+
+—No sé —dijo—. ¿Es tuyo el tenedor?
+
+Ninguno soltó lo que tenía. Y así se quedaron, congelados a mitad de un gesto que empezó hace mucho —una advertencia, una ofrenda, quién sabe— y que nadie, ni ellos mismos, terminaría jamás.
+
+Porque algunas figuras solo existen a medias: un brazo levantado que nunca llega a golpear, una mano abierta que nunca llega a entregar. Y el fondo blanco se queda ahí, esperando que alguien —tú, quizás— decida qué fue lo que realmente pasó entre ellos.'
         
         )
            
